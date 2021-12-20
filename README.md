@@ -12,8 +12,8 @@ A list of technologies used within the project:
 ## Installation
 A little intro about the installation. 
 ```
-$ git@github.com:santtier/Calculator.git
-$ cd Calculator
+$ git@github.com:santtier/Countdown-Timer.git
+$ cd Countdown-Timer
 ```
 
 ## Collaboration
@@ -46,4 +46,4 @@ There are a set of rules to keep in mind:
 - Recommended using [JSDoc](https://www.youtube.com/watch?v=r0H-acWQS6c)
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Calculator](https://santtier.github.io/Calculator/ "Calculator")
+If you want to see the demo of this proyect deployed, you can visit [Countdown Timer](https://santtier.github.io/Countdown-Timer/ "Countdown Timer")
