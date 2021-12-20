@@ -142,7 +142,7 @@ const updateBoxes = (endDate, startDate) => {
 
 // Execution
 const now = new Date()
-const nextYear = new Date(now.getFullYear(), 10, 25)
+const nextYear = new Date(2025, 0, 1)
 
 // Update countdown
 updateBoxes(nextYear)
